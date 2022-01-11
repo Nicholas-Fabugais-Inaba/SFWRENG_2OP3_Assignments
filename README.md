@@ -1,0 +1,2 @@
+# SFWRENG_2OP3_Assignments
+This course uses the Java programming language to introduce the principles of object-oriented programming including: classes, objects, interfaces, references, methods and fields; types of inheritance, overriding, polymorphism, overloading, exception handling, generics, recursion, design by contract, file I/O, use of standard APIs and the implementation of some basic data structures and algorithms.
